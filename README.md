@@ -27,7 +27,7 @@
 <h2 align="center">💻 Languages-Frameworks ⚡</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,python,javascript,typescript,c,sass,c" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,python,javascript,typescript,c,sass" /><br>
     <img src="https://skillicons.dev/icons?i=react,vue,bootstrap,mui,nodejs,django,next,vite,babel" />
 </div>
 
