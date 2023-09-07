@@ -13,7 +13,7 @@
   
  🌱 I’m currently learning **computer Science at Lebanese International University**
      
- 💬 Ask me about **anything from the skills that I mentioned above**
+ 💬 Ask me about **anything from the skills that I mentioned bellow**
 
 ⚡ Fun fact **the first “computer bug” was an actual bug.**
    
